@@ -7,5 +7,5 @@ Passionné d’informatique depuis tout petit, je suis un touche-à-tout curieux
 ## Mes impératifs
 - L’organisation : J’aime que les choses soient bien cadrées dès le départ. Pas de navigation à vue !
 - La clarté : Je privilégie les solutions simples à celles pleines de paillettes, pour un résultat plus efficace.
-- L’innovation pragmatique : J’aime explorer de nouvelles technologies et méthodes, mais je garde toujours en tête leur impact pratique. Mon objectif est d’innover là où cela fait vraiment la différence, sans ajouter de complexité inutile.
+- Le pragmatisme : J’aime explorer de nouvelles technologies et méthodes, mais je garde toujours en tête leur impact pratique. Mon objectif est d’innover là où cela fait vraiment la différence, sans ajouter de complexité inutile.
 - La transparence : Autant personnellement que professionnellement, je mets un point d’honneur à entretenir des relations transparentes. Les non-dits sont un fléau, et je les fuis.
