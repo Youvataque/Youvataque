@@ -1,4 +1,4 @@
 # Et bonjour ^^ 👋
 
-![plot](./banniere.png)
+![plot](./banniere.webp)
 ## Un peu sur moi
