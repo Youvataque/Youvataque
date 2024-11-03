@@ -1,3 +1,3 @@
 # Et bonjour ^^ 👋
 
-Je sens que faire une bannière correte va me gonfler 🙄
+![plot](./githubRes/banniere.png)
