@@ -1,3 +1,3 @@
 # Et bonjour ^^ 👋
 
-![plot](./githubRes/banniere .png)
+![plot](./githubRes/banniere.png)
