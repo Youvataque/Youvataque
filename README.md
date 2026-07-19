@@ -1,11 +1,36 @@
-# Et bonjour ^^ 👋
+# Yannis Seguin
 
 ![plot](./banniere.webp)
-## Un peu sur moi
 
-Passionné d’informatique depuis tout petit, je suis un touche-à-tout curieux. J’ai commencé en démontant des ordinateurs pour apprendre à les réparer (j'avais déjà le reverse engineering dans la peau 😉), puis, une fois arrivé au lycée, je me suis lancé dans le scripting avec Python. Je concède qu’à cette époque, mes motivations n’étaient guère nobles (embêter les camarades), mais elles m’ont permis d’acquérir des bases essentielles qui m'ont ensuite conduit à découvrir le monde du développement mobile, dont je suis tombé amoureux quelques années plus tard. Aujourd'hui j'utilise Flutter et React afin de réaliser mes projets allant du serveur domestique à l'application de gestion en passant par le site internet vitrine. J'accorde bien sur un peu de temps au C/C++ étant maintenant un fière étudiant de 42 ^^.
+## Product Engineer & Fullstack Builder
+
+Je ne me contente pas de coder, je transforme des besoins complexes en produits scalables et robustes. Fort d'une approche d'ingénierie pragmatique, je conçois l'architecture complète de vos solutions (Data, API, DevOps, Front) en privilégiant la vélocité et la solidité structurelle.
+
+- Site web : https://seguin-dev.com
+- LinkedIn : https://www.linkedin.com/in/yannis-seguin-540432161/
+
+---
+
+## Mon approche
+
+- Architecture First : Conception rigoureuse des modèles de données et des flux.
+- Vélocité Augmentée : Utilisation d'outils modernes et de l'IA pour une exécution et une livraison rapides.
+- Business Centric : La technique au service exclusif de la valeur utilisateur et de l'efficacité métier.
+
+---
+
 ## Mes impératifs
-- L’organisation : J’aime que les choses soient bien cadrées dès le départ. Pas de navigation à vue !
-- La clarté : Je privilégie les solutions simples à celles pleines de paillettes, pour un résultat plus efficace.
-- Le pragmatisme : J’aime explorer de nouvelles technologies et méthodes, mais je garde toujours en tête leur impact pratique. Mon objectif est d’innover là où cela fait vraiment la différence, sans ajouter de complexité inutile.
-- La transparence : Autant personnellement que professionnellement, je mets un point d’honneur à entretenir des relations transparentes. Les non-dits sont un fléau, et je les fuis.
+
+- L’organisation : Les projets doivent être cadrés dès le départ. Je refuse la navigation à vue pour garantir la maîtrise des délais et des coûts.
+- La clarté : Je privilégie les architectures simples et éprouvées aux solutions complexes ou à la mode. L'efficacité prime sur le superflu.
+- Le pragmatisme : Explorer de nouvelles technologies n'a de sens que si cela apporte un impact pratique direct. Pas de sur-ingénierie, juste du résultat.
+- La transparence : Les non-dits freinent le développement. J'entretiens des relations directes et transparentes, tant sur les choix techniques que sur l'avancement des projets.
+
+---
+
+## Stack & Architecture
+
+- Mobile & Web : Flutter (Dart, Cubit/Bloc), React.js, Next.js, TailwindCSS
+- Backend & Data : Node.js (TypeScript), Laravel (PHP), Reverb (WebSockets), Supabase, Firebase
+- DevOps & Infrastructure : Docker, Coolify (Self-hosted), Hetzner, CI/CD GitHub Actions
+- Fondamentaux : Ancien étudiant de l'École 42 (Algorithmique, rigueur système, C/C++)
