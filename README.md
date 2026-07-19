@@ -23,8 +23,8 @@ Je ne me contente pas de coder, je transforme des besoins complexes en produits 
 
 - L’organisation : Les projets doivent être cadrés dès le départ. Je refuse la navigation à vue pour garantir la maîtrise des délais et des coûts.
 - La clarté : Je privilégie les architectures simples et éprouvées aux solutions complexes ou à la mode. L'efficacité prime sur le superflu.
-- Le pragmatisme : Explorer de nouvelles technologies n'a de sens que si cela apporte un impact pratique direct. Pas de sur-ingénierie, juste du résultat.
-- La transparence : Les non-dits freinent le développement. J'entretiens des relations directes et transparentes, tant sur les choix techniques que sur l'avancement des projets.
+- Le pragmatisme : Explorer de nouvelles technologies n'a de sens que si cela apporte un impact pratique direct. Pas de sur-ingénierie.
+- La transparence : Les non-dits freinent le développement. J'entretiens des relations directes et transparentes, tant sur les choix techniques et l'avancement des projets qu'avec mes pairs.
 
 ---
 
