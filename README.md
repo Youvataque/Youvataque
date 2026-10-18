@@ -1,4 +1,4 @@
-# Yannis Seguin
+# SEGUIN Yannis
 
 ![plot](./banniere.webp)
 
